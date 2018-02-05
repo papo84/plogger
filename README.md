@@ -1,13 +1,18 @@
-Description
+# plogger
+
+### Description
 
 node log package to log message to console with colors based on the message type
 
-Installation
+### Installation
 
+```
 $ npm install plogger
+```
 
-Usage
+### Usage
 
+```
 global.logger = require('plogger').log;
 
 logger('debug', logLevel.DEBUG)
@@ -26,3 +31,5 @@ var initTest = function() {
   }
 }
 initTest();
+```
+
