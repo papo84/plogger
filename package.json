@@ -1,0 +1,26 @@
+{
+  "name": "plogger",
+  "version": "1.0.0",
+  "description": "node log package to log message to console with colors based on the message type",
+  "main": "plogger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papo84/plogger.git"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "plogger",
+    "node",
+    "npm"
+  ],
+  "author": "papo84",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/papo84/plogger/issues"
+  },
+  "homepage": "https://github.com/papo84/plogger#readme"
+}
